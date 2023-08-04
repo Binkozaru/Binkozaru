@@ -3,10 +3,10 @@
 🏫🏫🏫 [[ Tunku Abdul Rahman University of Management and Technology (TAR UMT) ]] 🏫🏫🏫
 Student of Faculty of Computing And Information Technology Studying Bachelor of Computer Science (Honours) in Interactive Software Technology
 
-# 📱📱 Mobile Assignment 📱📱
+## 📱📱 Mobile Assignment 📱📱
 [[https://github.com/arispelgremory/Kerjasama]]
 
-# 🎮🎮🎮🎮🎮🎮   My Game Project   🎮🎮🎮🎮🎮🎮
+## 🎮🎮🎮🎮🎮🎮   My Game Project   🎮🎮🎮🎮🎮🎮
 
 Itch IO Profile: (https://diesugunninie.itch.io)
 
