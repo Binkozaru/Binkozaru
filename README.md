@@ -1,6 +1,6 @@
 # 📖 Studying 📖
 
-## 🏫 Tunku Abdul Rahman University of Management and Technology (TAR UMT) 🏫
+## 🏫 Tunku Abdul Rahman University of Management and Technology 🏫
 
 ## MY PROFILE :
 <a href="https://diesugunninie.itch.io" target="_blank"><img src="https://img.itch.zone/aW1nLzEzMDI2NTc4LnBuZw==/100x100%23/2PXA6H.png" alt="Image Description" width="125px" height="125px"></a>
