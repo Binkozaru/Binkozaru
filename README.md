@@ -11,9 +11,17 @@
 
 <img src="https://www.protocol.com/media-library/unity-logo.jpg?id=30046849&width=1245&height=700&quality=85&coordinates=416%2C0%2C417%2C0" alt="Image Description" width="410px" height="250px">
 
-
-## 🕹️🕹️ Unity 3D Game Assignment 🕹️🕹️
+ <h2 align="center">
+🕹️🕹️ Unity 3D Game Assignment 🕹️🕹️
+</h2>
+ <h2 align="center">
 <a href="https://spoiler02.itch.io/akumu" target="_blank"><img src="https://img.itch.zone/aW1nLzExMTQxODY0LnBuZw==/315x250%23c/Kzplsx.png" alt="Image Description" width="380px" height="200px"></a>
+</h2>
+
+
+<p align="left">
+Akumu is a 3D singleplayer horror short story game. The protagonist named Ayaka get trapped in the school after accidentally fell asleep in the classroom. She have to find a way to unlock the locked main entrance, Ayaka need to try to find the keys and at the same time escape from the "Unknown" that roaming around in the school...
+</p>
 
 
 ## 📱📱 Mobile Application Assignment 📱📱
