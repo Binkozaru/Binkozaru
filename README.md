@@ -1,16 +1,15 @@
 
 <h2 align="center">
 📖 Studying 📖
-</h2>
 
-<h2 align="center">
+
 🏫 Tunku Abdul Rahman University of Management and Technology 🏫
 </h2>
 
 <h2 align="center">
 MY PROFILE
-</h2>
-<h2 align="center">
+
+
 <a href="https://diesugunninie.itch.io" target="_blank"><img src="https://img.itch.zone/aW1nLzEzMDI2NTc4LnBuZw==/100x100%23/2PXA6H.png" alt="Image Description" width="150px" height="150px"></a>
 </h2>
 
@@ -20,15 +19,15 @@ I Am The Student of Faculty of Computing And Information Technology Studying Bac
 
 <h2 align="center">
 🎮🎮 Game Engine 🎮🎮
-</h2>
-<h2 align="center">
+
+
 <img src="https://www.protocol.com/media-library/unity-logo.jpg?id=30046849&width=1245&height=700&quality=85&coordinates=416%2C0%2C417%2C0" alt="Image Description" width="410px" height="250px">
 </h2>
 
 <h2 align="center">
 🕹️🕹️ Unity 3D Game Assignment 🕹️🕹️
-</h2>
-<h2 align="center">
+
+
 <a href="https://spoiler02.itch.io/akumu" target="_blank"><img src="https://img.itch.zone/aW1nLzExMTQxODY0LnBuZw==/315x250%23c/Kzplsx.png" alt="Image Description" width="380px" height="200px"></a>
 </h2>
 
@@ -39,8 +38,8 @@ Akumu is a 3D singleplayer horror short story game. The protagonist named Ayaka 
 
 <h2 align="center">
 📱📱 Mobile Application Assignment 📱📱
-</h2>
-<h2 align="center">
+
+
 <a href="https://youtu.be/IeD_slQyLDg" target="_blank"><img src="./logo.00_00_00_00.Still001.png" alt="Image Description" width="330px" height="300px"></a>
 </h2>
 <p2 align="left">
